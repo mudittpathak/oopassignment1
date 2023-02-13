@@ -1,0 +1,16 @@
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.exe.config
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.exe
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.pdb
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.AssemblyReference.cache
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.SuggestedBindingRedirects.cache
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.CoreCompileInputs.cache
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.exe
+D:\Personal\Mudit\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.pdb
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.exe.config
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.exe
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\bin\Debug\HomeAppliances.pdb
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.AssemblyReference.cache
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.exe
+C:\Users\Mudit Pathak\OneDrive - Southern Alberta Institute of Technology\Desktop\HomeAppliances_updated\HomeAppliances\HomeAppliances\obj\Debug\HomeAppliances.pdb
